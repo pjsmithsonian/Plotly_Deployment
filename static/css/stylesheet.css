@@ -1,0 +1,10 @@
+body {
+    color: #28183b;
+}
+
+.jumbotron {
+    background-image: url("../images/diversity.JPG");
+    background-size: 100% 100%;
+    background-color: #28183b;
+    text-align: center;
+}
